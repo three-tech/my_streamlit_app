@@ -4,7 +4,7 @@ numpy
 streamlit==1.11.1
 click==8
 matplotlib
-altair
+altair<5
 plotly
 PyDeck==0.7.1
 graphviz
